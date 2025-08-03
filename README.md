@@ -23,7 +23,7 @@ Ecommerce store wants to create a weekly report. So that, the owner of ecommerce
 - Interactivity: Add slicers for dynamic exploration.
 
 ## Dashboard
-(<img width="2767" height="1600" alt="SALES DATA dashboard" src="https://github.com/user-attachments/assets/f9d18882-924d-4d07-b6f3-9554f5d44b59" />)
+<img width="2767" height="1600" alt="SALES DATA dashboard" src="https://github.com/user-attachments/assets/f9d18882-924d-4d07-b6f3-9554f5d44b59" />
 
 ## Project Insight
 - Top states: Makandara, Uttar Pradesh—focus on expanding in these high-revenue regions.
