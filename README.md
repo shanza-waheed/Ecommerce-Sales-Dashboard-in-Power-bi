@@ -14,13 +14,16 @@ Ecommerce store wants to create a weekly report. So that, the owner of ecommerce
 - Which sub-categories generate the most profit?
 - What are the most and least used payment methods?
 
-- Dashboard Interaction <a href ="https://github.com/shanza-waheed/Ecommerce-Sales-Dashboard-in-Power-bi/blob/main/ecommerce%20sales%20dashboard%20in%20power%20bi.PNG">View Dashboard</a>
+- Dashboard Interaction <a href ="https://github.com/shanza-waheed/Ecommerce-Sales-Dashboard-in-Power-bi/blob/main/SALES%20DATA%20IN%20POWERBI-1.png">View Dashboard</a>
 
 ## Process
 - Data Prep: Import and clean data (fix typos, calculate metrics like Sales, Profit, Quantity).
 - Modeling: Link tables (e.g., Orders ↔ Customers) and create measures (e.g., Profit Margin).
 - Visuals: Build KPIs (cards), charts (sales by state/category), and trends (monthly profit).
 - Interactivity: Add slicers for dynamic exploration.
+
+## Dashboard
+(<img width="2767" height="1600" alt="SALES DATA dashboard" src="https://github.com/user-attachments/assets/f9d18882-924d-4d07-b6f3-9554f5d44b59" />)
 
 ## Project Insight
 - Top states: Makandara, Uttar Pradesh—focus on expanding in these high-revenue regions.
